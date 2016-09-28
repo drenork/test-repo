@@ -2,3 +2,4 @@ this is manually adding a file
 new line
 branch edit
 this is the second branch
+this is the third branch
